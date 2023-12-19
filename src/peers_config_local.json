@@ -1,0 +1,12 @@
+{
+    "logging": {
+        "level": "warning",
+        "stream": "stdout"
+    },
+    "solver": {"name": "glpk", "args":  {}},
+
+    "files": {
+        "xls_template_file": "util\\templates\\output.xlsx",
+        "xls_folder": "tests\\excel"
+    }
+}
